@@ -1,0 +1,17 @@
+Droit;S1;Alexis;9
+Medecine;S1;Ronaldo;19
+Gestion;S2;Messi;19.5
+Informatique;S4;Michael;4.87
+Informatique;S4;Mariano;9
+Informatique;S4;Andy;13
+Informatique;S5;Anjara;17.5
+Informatique;S5;Sitraka;13.5
+Informatique;S5;Taniah;12.5
+Informatique;S5;Tafita;15
+Informatique;S2;Fanilo;10
+Informatique;S1;Christelle;15
+Informatique;S1;Iderana;8
+Medecine;S3;Fitia;13
+Medecine;S2;Faneva;15
+Droit;S6;Mima;14
+Mecanique;S3;Camille;20
